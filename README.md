@@ -22,7 +22,7 @@
 - [x] ⚡ Learn more about me from my [official page](https://www.ronvanda.com/)
 
 ## Stats from my work
-| <a href="https://github.com/vanda-jtrb/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vanda-jtrb&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/vanda-jtrb/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanda-jtrb&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanda-jtrb&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="vanda-jtrb's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanda-jtrb&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
 ## Languages and tools
