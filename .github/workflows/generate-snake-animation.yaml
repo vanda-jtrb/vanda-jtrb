@@ -16,7 +16,7 @@ on:
   
 
 jobs:
-  generate:
+  generate-snake-animation:
     permissions: 
       contents: write
     runs-on: ubuntu-latest
