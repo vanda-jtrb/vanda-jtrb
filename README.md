@@ -23,7 +23,7 @@
 
 ## Stats from my public work
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanda-jtrb&theme=tokyonight" alt="Vanda" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanda-jtrb&theme=buefy" alt="Vanda" />
 </div>
 <br>
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanda-jtrb&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="vanda-jtrb's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanda-jtrb&layout=compact&theme=buefy&hide_border=true" /> |
