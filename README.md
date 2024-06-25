@@ -23,7 +23,7 @@
 
 ## Stats from my public work
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanda-jtrb&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="vanda-jtrb's github stats" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanda-jtrb&theme=buefy&hide_border=true" alt="Vanda" /> |
-| ------------- ------------- |
+| ------------- | ------------- |
 
 ## Languages and tools
 <code><img height="20" src="https://avatars.githubusercontent.com/u/14101776?s=20&v=4" alt="Flutter"></code>
