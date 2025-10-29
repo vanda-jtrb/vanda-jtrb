@@ -43,9 +43,7 @@
 
 <!-- Profile View -->
 <img src="https://komarev.com/ghpvc/?username=vanda-jtrb&style=flat&color=brightgreen" alt="Profile Views" />
-<a href="https://github.com/vanda-jtrb" target="_blank">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=vanda-jtrb.vanda-jtrb&left_color=gray&right_color=orange&style=flat-square" alt="Visitor" />
-</a>
+
 
 <h1></h1>
 
@@ -97,7 +95,7 @@
 <!-- Deployment -->
 <img src="https://img.shields.io/badge/Deployment-gray?style=flat-round&logo=circleci&logoColor=white" alt="Deployment" />
 <a href="https://www.iis.net/" target="_blank">
-  <img src="https://img.shields.io/badge/-IIS-0078D7?style=flat-square&logo=serverfault&logoColor=white" alt="IIS" />
+  <img src="https://img.shields.io/badge/-IIS-4169E1?style=flat-square&logo=serverfault&logoColor=white" alt="IIS" />
 </a>
 <a href="https://www.docker.com/" target="_blank">
   <img src="https://img.shields.io/badge/-Docker-4169E1?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
@@ -157,7 +155,7 @@ Hi, I'm **Vanda**, a **Full Stack Development Guy** for you with a passion for *
 
 ### 🤖 Stats from my public work
 <div align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanda-jtrb&theme=tokyonight&hide_border=false" alt="Vanda" /> 
+  <img align="center" src="https://streak-stats.demolab.com?user=vanda-jtrb&theme=tokyonight&hide_border=false" alt="Vanda" />
 </div><br/>
 <div align="left">
   
