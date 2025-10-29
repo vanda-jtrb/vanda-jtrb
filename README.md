@@ -23,7 +23,7 @@
   </svg>
 </p> -->
 <!-- Gradient with Shimmer -->
-<p align="center">
+<!-- <p align="center">
   <svg xmlns="http://www.w3.org/2000/svg" width="500" height="50">
     <defs>
       <linearGradient id="grad">
@@ -39,7 +39,12 @@
       💖 រ៉ន​ វ៉ាន់ដា (Ron Vanda) 💖
     </text>
   </svg>
+</p> -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vanda-jtrb/vanda-jtrb/main/assets/profile-name.svg" alt="Ron Vanda" />
 </p>
+
 
 <!-- Profile View -->
 <img src="https://komarev.com/ghpvc/?username=vanda-jtrb&style=flat&color=brightgreen" alt="Profile Views" />
