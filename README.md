@@ -41,11 +41,7 @@
   </svg>
 </p> -->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vanda-jtrb/vanda-jtrb/main/assets/profile-name.svg" alt="Ron Vanda" />
-</p>
-
-
+<img src="https://raw.githubusercontent.com/vanda-jtrb/vanda-jtrb/main/assets/profile-name.svg" alt="Ron Vanda" /><br/>
 <!-- Profile View -->
 <img src="https://komarev.com/ghpvc/?username=vanda-jtrb&style=flat&color=brightgreen" alt="Profile Views" />
 
