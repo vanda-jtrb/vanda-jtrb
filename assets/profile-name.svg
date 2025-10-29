@@ -23,7 +23,7 @@
 
 <!-- Gradient with Animation -->
 <svg xmlns="http://www.w3.org/2000/svg"
-     width="800" height="72" viewBox="0 0 800 72" role="img" aria-labelledby="title">
+     width="800" height="30" viewBox="0 0 800 30" role="img" aria-labelledby="title">
   <title id="title">Ron Vanda — Animated Header</title>
   <defs>
     <linearGradient id="grad">
