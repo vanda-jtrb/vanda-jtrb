@@ -49,7 +49,6 @@
 <!-- Profile View -->
 <img src="https://komarev.com/ghpvc/?username=vanda-jtrb&style=flat&color=brightgreen" alt="Profile Views" />
 
-
 <h1></h1>
 
 <!-- Platform -->
@@ -141,6 +140,7 @@
 
 ### Quick Access
 - <a href="#About-Me" style="text-decoration: none;">About Me</a>
+- <a href="#Skill-Architecture" style="text-decoration: none;">Skill Architecture</a>
 - <a href="#Featured-Projects" style="text-decoration: none;">Featured Projects</a>
 - <a href="#Contact" style="text-decoration: none;">Get in Touch</a>
 
@@ -151,7 +151,7 @@
 
 Hi, I'm **Vanda**, a **Full Stack Development Guy** for you with a passion for **Mobile App**, **Web App**, **Desktop App**, **Server**, and **Cloud** deployment with **CI/CD** and **DevOps**.
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" alt="animated hello" />
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" alt="animated hello" /> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="400" align="top" alt="dev quote" />
 
 ### 🤖 Stats from my public work
 <div align="left">
@@ -169,6 +169,87 @@ Hi, I'm **Vanda**, a **Full Stack Development Guy** for you with a passion for *
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vanda-jtrb/vanda-jtrb/output/github-contribution-grid-snake.svg">
 </picture>
 
+<!-- Skill Architecture -->
+<a name="Skill-Architecture" style="text-decoration: none;"></a>
+## ⚙️ [Skill Architecture &#9650;](#___top "click to go to top of document")
+
+```mermaid
+graph TD
+  You((Vanda))
+
+  subgraph FE[Frontend]
+    A[Next.js]
+    B[Flutter]
+    C[TailwindCSS]
+    D[Framer Motion]
+  end
+
+  subgraph BE[Backend]
+    E[NestJS]
+    F[ASP.NET Core]
+    G[GraphQL]
+    H[REST API]
+  end
+
+  subgraph DB[Database]
+    I[(PostgreSQL)]
+    J[Prisma ORM]
+  end
+
+  subgraph OPS[DevOps]
+    K[Docker]
+    L[AWS ECS]
+    M[GitHub Container Registry]
+    N[CI/CD Pipelines]
+  end
+
+  subgraph MOBILE[Mobile Infra]
+    O[AppsFlyer Deep Linking]
+    P[AutoRoute]
+  end
+
+  subgraph TOOLS[Tools]
+    Q[Monorepo]
+    R[Git & GitHub]
+    S[Figma]
+    T[Postman]
+  end
+
+  You --> FE
+  You --> BE
+  You --> DB
+  You --> OPS
+  You --> MOBILE
+  You --> TOOLS
+
+  A --> G
+  B --> O
+  E --> I
+  E --> J
+  F --> H
+  J --> I
+  K --> L
+  L --> M
+
+  %% 🎨 Color Theme Styles
+  classDef person fill:#6366f1,color:#fff,stroke:#4f46e5,stroke-width:2px
+  classDef frontend fill:#38bdf8,color:#0c4a6e,stroke:#0284c7,stroke-width:1.5px
+  classDef backend fill:#fb923c,color:#7c2d12,stroke:#ea580c,stroke-width:1.5px
+  classDef database fill:#a78bfa,color:#3b0764,stroke:#7c3aed,stroke-width:1.5px
+  classDef devops fill:#4ade80,color:#065f46,stroke:#16a34a,stroke-width:1.5px
+  classDef mobile fill:#f472b6,color:#500724,stroke:#db2777,stroke-width:1.5px
+  classDef tools fill:#fbbf24,color:#422006,stroke:#d97706,stroke-width:1.5px
+
+  %% Apply Colors
+  class You person
+  class A,B,C,D frontend
+  class E,F,G,H backend
+  class I,J database
+  class K,L,M,N devops
+  class O,P mobile
+  class Q,R,S,T tools
+```
+
 <!-- Featured Projects -->
 <a name="Featured-Projects" style="text-decoration: none;"></a>
 ## 🚀 [Featured Projects &#9650;](#___top "click to go to top of document")
@@ -185,7 +266,6 @@ Hi, I'm **Vanda**, a **Full Stack Development Guy** for you with a passion for *
 - Attendance Management System
 - Real Estate Management System
 - More...
-
 
 <!-- Contact -->
 <a name="Contact" style="text-decoration: none;"></a>
