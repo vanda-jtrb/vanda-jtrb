@@ -42,97 +42,96 @@
 </p> -->
 
 <img src="https://raw.githubusercontent.com/vanda-jtrb/vanda-jtrb/main/assets/profile-name.svg" alt="Ron Vanda" /><br/>
+<!-- Skill -->
+<a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Skill-Full Stack-green?logo=github" alt="Skill" />
+</a>
 <!-- Profile View -->
 <img src="https://komarev.com/ghpvc/?username=vanda-jtrb&style=flat&color=brightgreen" alt="Profile Views" />
 
 
 <h1></h1>
 
-<!-- Skill -->
-<a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Skill-Full Stack-green?logo=github" alt="Lay.Ly" />
-</a>
-
 <!-- Platform -->
 <img src="https://img.shields.io/badge/Platform-gray?style=flat-round&logo=google-cloud&logoColor=white" alt="Platform" />
-<img src="https://img.shields.io/badge/Android-blue?style=flat-square&logo=android&logoColor=white" alt="Android" />
-<img src="https://img.shields.io/badge/iOS-blue?style=flat-square&logo=apple&logoColor=white" alt="iOS" />
-<img src="https://img.shields.io/badge/Web-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="Web" />
-<img src="https://img.shields.io/badge/Desktop-blue?style=flat-square&logo=pcgamingwiki&logoColor=white" alt="Desktop" />
-
+<img src="https://img.shields.io/badge/Android-blue?style=flat-round&logo=android&logoColor=white" alt="Android" />
+<img src="https://img.shields.io/badge/iOS-blue?style=flat-round&logo=apple&logoColor=white" alt="iOS" />
+<img src="https://img.shields.io/badge/Web-blue?style=flat-round&logo=google-chrome&logoColor=white" alt="Web" />
+<img src="https://img.shields.io/badge/Desktop-blue?style=flat-round&logo=pcgamingwiki&logoColor=white" alt="Desktop" />
+<br/>
 <!-- Tech Stack -->
 <img src="https://img.shields.io/badge/Tech%20Stack-gray?style=flat-round&logo=stackshare&logoColor=white" alt="Tech Stack" />
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank">
-  <img src="https://img.shields.io/badge/-.NET-02569B?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/-.NET-02569B?style=flat-round&logo=dotnet&logoColor=white" alt=".NET" />
 </a>
 <a href="https://flutter.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-round&logo=flutter&logoColor=white" alt="Flutter" />
 </a>
 <a href="https://nextjs.org/" target="_blank">
-  <img src="https://img.shields.io/badge/-Next.js-02569B?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/-Next.js-02569B?style=flat-round&logo=nextdotjs&logoColor=white" alt="Next.js" />
 </a>
 <a href="https://nestjs.com/" target="_blank">
-  <img src="https://img.shields.io/badge/-NestJS-02569B?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/-NestJS-02569B?style=flat-round&logo=nestjs&logoColor=white" alt="NestJS" />
 </a>
 <a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/-NuGet-02569B?style=flat-square&logo=nuget&logoColor=white" alt="NuGet" />
+  <img src="https://img.shields.io/badge/-NuGet-02569B?style=flat-round&logo=nuget&logoColor=white" alt="NuGet" />
 </a>
 <a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/-PubDev-02569B?style=flat-square&logo=dart&logoColor=white" alt="Pub.Dev" />
+  <img src="https://img.shields.io/badge/-PubDev-02569B?style=flat-round&logo=dart&logoColor=white" alt="Pub.Dev" />
 </a>
 <a href="https://demos.devexpress.com/ASPNetCore/" target="_blank">
-  <img src="https://img.shields.io/badge/-DevExpress-02569B?style=flat-square&logo=devexpress&logoColor=white" alt="DevExpress" />
+  <img src="https://img.shields.io/badge/-DevExpress-02569B?style=flat-round&logo=devexpress&logoColor=white" alt="DevExpress" />
 </a>
 <a href="https://www.dynatrace.com/" target="_blank">
-  <img src="https://img.shields.io/badge/-Dynatrace-02569B?style=flat-square&logo=dynatrace&logoColor=white" alt="Dynatrace" />
+  <img src="https://img.shields.io/badge/-Dynatrace-02569B?style=flat-round&logo=dynatrace&logoColor=white" alt="Dynatrace" />
 </a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-  <img src="https://img.shields.io/badge/-MSSQL-02569B?style=flat-square&logo=databricks&logoColor=white" alt="MSSQL" />
+  <img src="https://img.shields.io/badge/-MSSQL-02569B?style=flat-round&logo=databricks&logoColor=white" alt="MSSQL" />
 </a>
 <a href="https://www.postgresql.org/" target="_blank">
-  <img src="https://img.shields.io/badge/-PostgreSQL-02569B?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-02569B?style=flat-round&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </a>
-
+<br/>
 <!-- Deployment -->
 <img src="https://img.shields.io/badge/Deployment-gray?style=flat-round&logo=circleci&logoColor=white" alt="Deployment" />
 <a href="https://www.iis.net/" target="_blank">
-  <img src="https://img.shields.io/badge/-IIS-4169E1?style=flat-square&logo=serverfault&logoColor=white" alt="IIS" />
+  <img src="https://img.shields.io/badge/-IIS-4169E1?style=flat-round&logo=serverfault&logoColor=white" alt="IIS" />
 </a>
 <a href="https://www.docker.com/" target="_blank">
-  <img src="https://img.shields.io/badge/-Docker-4169E1?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/-Docker-4169E1?style=flat-round&logo=docker&logoColor=white" alt="Docker" />
 </a>
 <a href="https://kubernetes.io/" target="_blank">
-  <img src="https://img.shields.io/badge/-Kubernetes-4169E1?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/-Kubernetes-4169E1?style=flat-round&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </a>
 <a href="https://vercel.com/" target="_blank">
-  <img src="https://img.shields.io/badge/-Vercel-4169E1?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/-Vercel-4169E1?style=flat-round&logo=vercel&logoColor=white" alt="Vercel" />
 </a>
 <a href="https://aws.amazon.com/" target="_blank">
-  <img src="https://img.shields.io/badge/-AWS-4169E1?style=flat-square&logo=icloud&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/-AWS-4169E1?style=flat-round&logo=icloud&logoColor=white" alt="AWS" />
 </a>
 <a href="https://sonarcloud.io/" target="_blank">
-  <img src="https://img.shields.io/badge/-SonarCloud-4169E1?style=square&logo=sonar&logoColor=white" alt="Sonar Cloud" />
+  <img src="https://img.shields.io/badge/-SonarCloud-4169E1?style=round&logo=sonar&logoColor=white" alt="Sonar Cloud" />
 </a>
 <a href="https://github.com/dependabot" target="_blank">
-  <img src="https://img.shields.io/badge/-Dependabot-4169E1?style=flat-square&logo=dependabot&logoColor=white" alt="Dependabot" />
+  <img src="https://img.shields.io/badge/-Dependabot-4169E1?style=flat-round&logo=dependabot&logoColor=white" alt="Dependabot" />
 </a>
 <a href="https://github.com/features/actions" target="_blank">
-  <img src="https://img.shields.io/badge/-GitHub%20Actions-4169E1?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/-GitHub%20Actions-4169E1?style=flat-round&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </a>
-
+<br/>
 <!-- Collaboration -->
 <img src="https://img.shields.io/badge/Collaboration-gray?style=flat-round&logo=slack&logoColor=white" alt="Collaboration" />
 <a href="https://www.atlassian.com/software/jira" target="_blank">
-  <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat-round&logo=jira&logoColor=white" alt="Jira" />
 </a>
 <a href="https://github.com/" target="_blank">
-  <img src="https://img.shields.io/badge/-GitHub-0052CC?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/-GitHub-0052CC?style=flat-round&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://www.figma.com/" target="_blank">
-  <img src="https://img.shields.io/badge/-Figma-0052CC?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/-Figma-0052CC?style=flat-round&logo=figma&logoColor=white" alt="Figma" />
 </a>
 <a href="https://www.canva.com/" target="_blank">
-  <img src="https://img.shields.io/badge/-Canva-0052CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/-Canva-0052CC?style=flat-round&logo=canva&logoColor=white" alt="Canva" />
 </a>
 
 </div>
