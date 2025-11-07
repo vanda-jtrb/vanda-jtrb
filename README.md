@@ -211,3 +211,15 @@ I'm currently open to new opportunities and collaborations. Whether you have a q
 <a href="mailto:ronvanda99@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-0052AA?style=flat-round&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
+
+<h1></h1>
+
+<p align="center"> 
+  💖 Thanks for visiting! Let's build cool things together 💖
+</p>
+
+<div align="center"> 
+  
+<a name="Bottom" style="text-decoration: none;"></a > [Go to top &#9650;](#___top "click to go to top of document")
+
+</div>
