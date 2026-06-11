@@ -1,6 +1,9 @@
 <a name="___top"></a>
 <div align="center">
 
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&textBg=false" />
+
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&weight=500&pause=1000&center=true&vCenter=true&width=550&lines=WELCOME+TO+MY+WONDERFUL+AND+AMAZING...;OFFICIAL+PORTFOLIO)](#)
 
 <!-- Profile Photo -->
@@ -294,8 +297,13 @@ I'm currently open to new opportunities and collaborations. Whether you have a q
 
 <h1></h1>
 
-<p align="center"> 
+<p align="center">
   💖 Thanks for visiting! Let's build cool things together 💖
+</p>
+
+<p align="center">
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&textBg=false&section=footer" />
 </p>
 
 <div align="center"> 
