@@ -121,8 +121,8 @@
   <img src="https://img.shields.io/badge/-GitHub%20Actions-4169E1?style=flat-round&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </a>
 <br/>
-<!-- Collaboration -->
-<img src="https://img.shields.io/badge/Collaboration-gray?style=flat-round&logo=slack&logoColor=white" alt="Collaboration" />
+<!-- Project Management -->
+<img src="https://img.shields.io/badge/Project%20Management-gray?style=flat-round&logo=ticktick&logoColor=white" alt="Project Management" />
 <a href="https://www.atlassian.com/software/jira" target="_blank">
   <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat-round&logo=jira&logoColor=white" alt="Jira" />
 </a>
@@ -133,7 +133,13 @@
   <img src="https://img.shields.io/badge/-Figma-0052CC?style=flat-round&logo=figma&logoColor=white" alt="Figma" />
 </a>
 <a href="https://www.canva.com/" target="_blank">
-  <img src="https://img.shields.io/badge/-Canva-0052CC?style=flat-round&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/-Canva-0052CC?style=flat-round&logo=figma&logoColor=white" alt="Canva" />
+</a>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/-DevOps-0052CC?style=flat-round&logo=terraform&logoColor=white" alt="Canva" />
+</a>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/-DevSecOps-0052CC?style=flat-round&logo=owasp&logoColor=white" alt="Canva" />
 </a>
 
 </div>
